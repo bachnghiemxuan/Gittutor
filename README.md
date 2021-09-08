@@ -1,5 +1,4 @@
-# hello
-## Subcription
-Watching Git crash course
+# A PRACTICE
 
-I love you
+I download **udemy_courses.csv** from an online source 
+Then use **Python** and **Power BI** to analysis the data
